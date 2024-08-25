@@ -15,7 +15,7 @@ PrivacyBot is a state-of-the-art system designed to explore and evaluate differe
 * **TruLens Evaluation** : Integration with TruLens framework for detailed evaluation metrics.
 * **Configurable Pipelines** : Easily switch between different RAG pipelines.
 
-## 💡 Setup
+## ⚙️ Setup
 ### Requirements
 * Python 3.8 or above
 * OpenAI API Key for LLM integration
@@ -48,7 +48,7 @@ pip install -r requirements.txt
    * The evaluation is conducted through the evaluation.ipynb notebook.
    * Metrics such as Answer Relevance, Context Relevance, Groundedness, and Answer Correctness are computed using TruLens.
 
-## ⚙️ RAG Pipelines & Enhancing Techniques
+## 🤖 RAG Pipelines & Enhancing Techniques
 * **Naive RAG Pipeline**
 * **Sentence Window Retrieval**
 * **Re-ranking**
