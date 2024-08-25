@@ -1,0 +1,15 @@
+Query: What measures does PMI take when transferring personal data to countries with different data protection standards?
+Response: PMI ensures that any transfer of personal data to countries with different data protection standards is done with appropriate safeguards, such as EU Model Contracts, or other legal mechanisms that provide adequate protection.
+
+Query: How does PMI handle cookies and tracking technologies on its digital touchpoints?
+Response: PMI uses cookies and similar tracking technologies (such as pixels/web beacons) on its digital touchpoints to collect information about user interactions. This information is used to enhance user experience and for business analytics.
+
+Query: What specific rights do users in Japan have regarding their personal information?
+Response: Users in Japan have the right to be informed about the joint use of their personal information by PMI affiliates. PMI takes reasonable measures to protect this information, especially when transferred outside Japan.
+
+Query: How does PMI ensure the confidentiality and security of personal data during processing?
+Response: PMI implements strict security measures, including encryption, access controls, and secure data storage, to protect personal data during processing. PMI also monitors systems and devices to maintain data integrity.
+
+Query: What options do users have to control PMIÕs use of their personal information for direct marketing?
+Response: Users can opt out of PMIÕs use of their personal information for direct marketing at any time by using 'unsubscribe' links provided in communications or by contacting PMI directly.
+
