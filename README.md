@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ## 👩‍💻 Usage
 1. **Running the Pipelines** :
-   * You can run the RAG pipelines from the notebook app.ipynb and the Python scripts.
+   * You can run the RAG pipelines using the notebook app.ipynb and the Python file ragpipelines.py.
    * Select the desired pipeline and run queries to get responses.
 
 2. **Evaluating Pipelines** :
