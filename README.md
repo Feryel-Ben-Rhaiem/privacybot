@@ -23,11 +23,14 @@ PrivacyBot is a state-of-the-art system designed to explore and evaluate differe
 
 ### Installation
 1. Clone the repository:
+```console
 git clone https://github.com/yourusername/privacybot.git
 cd privacybot
-
-2.  Install the dependencies:
+```
+3.  Install the dependencies:
+```console
 pip install -r requirements.txt
+```
 
 ## 💡 Setup
 
