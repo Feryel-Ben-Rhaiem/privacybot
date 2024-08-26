@@ -59,7 +59,5 @@ The evaluation is conducted using TruLens, a feedback-driven evaluation framewor
 
 ## 📱 UI
 
-
-
-![yo](https://github.com/Feryel-Ben-Rhaiem/privacybot/files/PrivacyBot - Display 1.png)
+![My Image]([https://github.com/your-username/your-repository-name/blob/main/example.png](https://github.com/Feryel-Ben-Rhaiem/privacybot/files/PrivacyBot - Display 1.png))
 
