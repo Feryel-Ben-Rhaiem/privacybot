@@ -57,6 +57,9 @@ pip install -r requirements.txt
 ## 🎯 Evaluation and Results
 The evaluation is conducted using TruLens, a feedback-driven evaluation framework. The results highlight the strengths and weaknesses of each pipeline, focusing on the following metrics; Answer Correctness, Context Relevance, Groundedness, and Answer Relevance.
 
+## 📱 UI
+
+
 
 
 
