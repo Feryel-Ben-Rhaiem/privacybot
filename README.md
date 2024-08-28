@@ -7,7 +7,7 @@
 
 
 ## 🧐 Overview
-PrivacyBot is a state-of-the-art system designed to explore and evaluate different Retrieval-Augmented Generation (RAG) techniques. It uses LlamaIndex as its core framework to optimize interactions between large language models (LLMs) and data. The project focuses on enhancing user privacy literacy through conversational AI. This repository includes the implementation of various RAG pipelines, from a basic Naive RAG model to more advanced techniques like Sentence Window Retrieval, Auto-Merging Retrieval, Re-ranking, and Prompt Engineering.
+PrivacyBot is a state-of-the-art system designed to explore and evaluate different Retrieval-Augmented Generation (RAG) techniques. It uses LlamaIndex as its core framework to optimize interactions between large language models (LLMs) and data. The project focuses on enhancing user privacy literacy through conversational AI. This repository includes the implementation and evaluation of various RAG pipelines, from a basic Naive RAG model to more advanced techniques like Sentence Window Retrieval, Auto-Merging Retrieval, Re-ranking, and Prompt Engineering.
 
 ## 💡 Features
 * **Naive RAG Implementation** : A baseline model that combines retrieval and generation.
