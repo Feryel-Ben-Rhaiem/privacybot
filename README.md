@@ -71,7 +71,7 @@ This demonstrates the UI for comparing multiple RAG pipeline responses side by s
 ![Display2](https://github.com/Feryel-Ben-Rhaiem/privacybot/blob/main/files/Display2.png)
 
 
-### TruLens Leaderboard Interface::
+### TruLens Leaderboard Interface:
 This UI displays the TruLens dashboard showcasing the leaderboard of various query engine configurations. It highlights key metrics such as answer correctness, context relevance, groundedness, and answer relevance, providing a visual summary of the performance for each configuration.
 
 ![TruLens](https://github.com/Feryel-Ben-Rhaiem/privacybot/blob/main/files/TruLens-Dashboard.png)
