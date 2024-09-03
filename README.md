@@ -55,7 +55,7 @@ pip install -r requirements.txt
 * **Prompt Engineering**
 
 ## 🎯 Evaluation and Results
-The evaluation is conducted using TruLens, a feedback-driven evaluation framework. The results highlight the strengths and weaknesses of each pipeline, focusing on the following metrics; Answer Correctness, Context Relevance, Groundedness, and Answer Relevance.
+The evaluation is conducted using TruLens, an evaluation framework that uses LLM Evals and feedback functions. The results highlight the strengths and weaknesses of each pipeline, focusing on the following performance metrics; Answer Correctness, Context Relevance, Groundedness, and Answer Relevance, and the following efficiency metrics; token consumption and cost of API calls.
 
 ## 📱 UI
 
@@ -72,6 +72,6 @@ This demonstrates the UI for comparing multiple RAG pipeline responses side by s
 
 
 ### TruLens Leaderboard Interface:
-This UI displays the TruLens dashboard showcasing the leaderboard of various query engine configurations. It highlights key metrics such as answer correctness, context relevance, groundedness, and answer relevance, providing a visual summary of the performance for each configuration.
+This UI displays the TruLens dashboard showcasing the leaderboard of various query engine configurations. It highlights key metrics, providing a visual summary of the performance for each configuration.
 
 ![TruLens](https://github.com/Feryel-Ben-Rhaiem/privacybot/blob/main/files/TruLens-Dashboard.png)
