@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ## 🎯 Evaluation and Results
 The evaluation is conducted using TruLens, an evaluation framework that uses LLM Evals and feedback functions. The results highlight the strengths and weaknesses of each pipeline, focusing on the following performance metrics; Answer Correctness, Context Relevance, Groundedness, and Answer Relevance, and the following efficiency metrics; token consumption and cost of API calls.
 
-## 📱 UI
+## 📱 UIs
 
 ### Single-Response Interface: 
 This is the first UI option where users can select a single RAG pipeline and interact with a chatbot. The user can ask questions about PMI's privacy policy and receive a response from the selected pipeline, making it easy to evaluate individual pipeline performance in real-time.
