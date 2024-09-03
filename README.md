@@ -51,6 +51,7 @@ pip install -r requirements.txt
 ## 🤖 RAG Pipelines & Enhancing Techniques
 * **Naive RAG Pipeline**
 * **Sentence Window Retrieval**
+* **Auto-merging Retrieval**
 * **Re-ranking**
 * **Prompt Engineering**
 
